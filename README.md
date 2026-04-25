@@ -28,3 +28,15 @@ Keep your encryption key safe. If the key is lost, the encrypted data cannot be 
 🛠️ Tech Stack
 Python
 Cryptography libraries (e.g., cryptography or similar)
+
+## ▶️ How to Run
+
+### 1. Clone the Repository
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+
+### 2.Install Cryptographt Libary
+pip install cryptography
+
+### 3. Run the Project 
+python Encryption_tool.py
