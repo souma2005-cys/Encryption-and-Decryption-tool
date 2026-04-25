@@ -32,7 +32,7 @@ Cryptography libraries (e.g., cryptography or similar)
 ## ▶️ How to Run
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/souma2005-cys/Encryption-and-Decryption-tool.git
 cd your-repo-name
 
 ### 2.Install Cryptographt Libary
